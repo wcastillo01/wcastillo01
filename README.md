@@ -1,5 +1,12 @@
-<h1 align="center">Hello World 👋, I'm Wilson Castillo</h1>
+<h1 align="center">Hello World! I'm Wilson Castillo</h1>
+
 <h3 align="center">Dominican Software Development student.</h3>
+
+```python
+
+print("Hello World")
+  
+```
 
 - 🔭 I’m currently working on **learning as much as I can**
 
