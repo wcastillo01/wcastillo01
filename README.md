@@ -8,12 +8,12 @@ print("About me:")
 
 - 👾 Currently 19 years old on third year of career
 - 🔭 I’m currently working on **learning as much as I can**
-- 📫 How to reach me **wcastillopujols1@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 
-Mail: wcastillopujols1@gmail.com
-Phone: 829-329-1548
+- 📫 How to reach me **wcastillopujols1@gmail.com**
+- 📞: 829-329-1548
 
 
 <p align="left">
