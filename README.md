@@ -1,18 +1,18 @@
 <h1 align="center">Hello World! I'm Wilson Castillo 👨🏼‍💻</h1>
-
-<h3 align="center">Dominican Software Development student.</h3>
-
-```terminal
-
-print("Hello World")
-  
+<h3 align="center">I'm a Dominican Software Engineering student.</h3>
+```python
+print("About me:")
 ```
-
+- 👾 Currently 19 years old on third year of career
 - 🔭 I’m currently working on **learning as much as I can**
-
 - 📫 How to reach me **wcastillopujols1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+Mail: wcastillopujols1@gmail.com
+Phone: 829-329-1548
+
+
 <p align="left">
 </p>
 
