@@ -1,8 +1,8 @@
-<h1 align="center">Hello World! I'm Wilson Castillo</h1>
+<h1 align="center">Hello World! I'm Wilson Castillo 👨🏼‍💻</h1>
 
 <h3 align="center">Dominican Software Development student.</h3>
 
-```csharp
+```terminal
 
 print("Hello World")
   
