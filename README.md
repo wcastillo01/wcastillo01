@@ -13,7 +13,6 @@ print("About me:")
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **wcastillopujols1@gmail.com**
-- 📞: 829-329-1548
 
 
 <p align="left">
