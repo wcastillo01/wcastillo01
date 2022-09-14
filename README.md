@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Wilson Castillo 👨🏼‍💻</h1>
+<h1 align="center">Hello World! 🏼‍💻</h1>
 <h3 align="center">I'm a Dominican Software Engineering student.</h3>
 
 ```python
