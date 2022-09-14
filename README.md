@@ -13,8 +13,7 @@ My name is Wilson A. Castillo Pujols, I am a young technology enthusiast, versat
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **wcastillopujols1@gmail.com**
-
+- 📫 How to reach me **wcastillopujols1@gmail.com || www.linkedin.com/in/wilson-castillo**
 
 <p align="left">
 </p>
