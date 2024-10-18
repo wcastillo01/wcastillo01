@@ -5,9 +5,8 @@
 
 print("About me:")
 ```
- I'm a Dominican Software Engineering student. I am a young technology enthusiast, versatile, motivated to create, learn and try different types of projects and processes, with a broad vision of the future. I want this job to experience new ventures and get out of my comfort zone, I consider myself capable of getting involved in existing workflows, respecting organizational guidelines and adhering to leadership regulations, with the will to continue growing as a socially responsible individual.
-
-- 🔭 Currently learning RedHat OpenShift, Kubernetes, AWS and many DevOps skills/
+ I'm a Dominican Software Engineering student. Young technology enthusiast, versatile, motivated to create, learn and try different types of projects and processes, with a broad vision of the future.
+- 🔭 Currently learning  AWS,  Kubernetes, Dynatrace, RedHat OpenShift,and many DevOps skills/
 - 👨🏼‍💻 Working on ShadowSoft
 
 
